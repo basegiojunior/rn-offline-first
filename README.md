@@ -1,6 +1,8 @@
-### Application developed using React Native in order to test the library `react-native-offline`
+# rn-offline-first
 
-#### Using
+Application developed using React Native in order to test the library `react-native-offline`
+
+### Instructions
 
 - install React Native and Android Studio
 - clone the project
