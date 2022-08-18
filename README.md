@@ -1,6 +1,6 @@
 # rn-offline-first
 
-Application developed using React Native in order to test the library `react-native-offline`
+Application developed using React Native in order to test the library `react-native-offline` (tested on Android only)
 
 ### Instructions
 
